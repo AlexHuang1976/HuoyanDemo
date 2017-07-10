@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\Android\SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\PlayCamera_V1.0.21\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_eb510e181e4686ca109a12d0c88743d84bcc20a7.jar" />
+    </item>
+
+</items>

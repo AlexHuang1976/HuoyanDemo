@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sun Jul 09 21:14:13 CST 2017
+2.base=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\btn_shutter_background.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher_icon1.png
+4.base=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\welcom.png
+5.base=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_camera.xml
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+1.file=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\btn_camera_all_click.png
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+10.base=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\btn_camera_all.png
+6.set=DEX
+0.base=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher_icon.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Alex\\AndroidStudioProjects\\HuoyanDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\camera.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

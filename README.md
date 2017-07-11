@@ -36,8 +36,12 @@
   四. 项目进展
      现阶段招聘计划还没有落实，我自己是传统Windows .net程序员，先把第一步做起来，在网上参照别人的源代码，写DEMO程序，暂时实现
      1 . 前端界面 一个调用相机的surfaceview，一个周边遮罩，只留中心矩形取景的MaskView,一个自定义的绿线扫描动画（SVDraw)
-     接下来需要做的，是应用的核心部分，也是难点所在：
-     通过实现SurfaceView的PreviewCallback，重载函数OnPreviewFrame(byte[] data,Camera camera),data就是相机实时预览的帧视频。
-  
+     
+     -------------------------------------分隔线-----------------------------------------------------------------------
+   
+     接下来需要做的，是应用的核心部分，也是难点所在：识别标签，返回标签所绑定的防伪信息
+     参考http://blog.csdn.net/yanzi1225627/article/details/8605061
+     A. 通过实现SurfaceView的PreviewCallback，重载函数OnPreviewFrame(byte[] data,Camera camera),data就是相机实时预览的帧视频。识别的过程比较复杂，所以不能直接在OnPreviewFrame中处理，要借助AsyncTask开启一个线程如TitleTask来进行标签预识别（矩形特征），识别成功用矩形框标识，并将标签内容上传到服务器进行分析，返回识别结果；
+     B. 为使界面简洁，OnPreviewFrame不用按钮触发，由AutoFocusCallback自动对焦后触发；
 
 
